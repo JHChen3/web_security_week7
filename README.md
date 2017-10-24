@@ -34,11 +34,11 @@
    - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
  
  
- 3. WordPress <= 4.2.3 - Legacy Theme Preview Cross-Site Scripting (XSS)
+ 3. WordPress <= 4.2.3 - Legacy Theme Preview Cross-Site Scripting (XSS) (CVE-ID: CVE-2015-5734)
  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.4
 - [ ] GIF Walkthrough: 
   
   https://user-images.githubusercontent.com/21267287/31911871-0dde0b2a-b810-11e7-9956-4fb60ee0f875.gif
